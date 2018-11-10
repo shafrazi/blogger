@@ -41,6 +41,7 @@ class ArticlesController < ApplicationController
   end
 
 
+
   private
 
     def page_params
